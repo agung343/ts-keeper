@@ -1,0 +1,32 @@
+.note {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 4px #ccc;
+    padding: 10px;
+    width: 250px;
+    margin: 16px;
+    float: left;
+}
+
+.note h1 {
+    font-size: 1.1rem;
+    margin-bottom: 6px;
+}
+
+.note p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.note button {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    border: none;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+}
